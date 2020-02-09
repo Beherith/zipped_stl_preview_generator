@@ -23,4 +23,4 @@ python stl_preview_generator.py --folder mystlarchivefolder
 
 5. Enjoy!
 
-
+![Results:](https://raw.githubusercontent.com/Beherith/zipped_stl_preview_generator/master/screenshot_stl_preview_generator.PNG)
